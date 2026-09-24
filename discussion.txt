@@ -1,0 +1,24 @@
+19
+"Secured App"> Protected Tickets APIs
+Create the below users:
+1
+admin, 123, 4
+2 employee, 123, 1
+3. engineer, 123, 2
+4 lead, 123, 3
+
+In swagger Authorize>
+username
+password
+admin, 123
+borid questil-20
+Then try the Tickets APIS
+Create, Read All, Read By Update,
+Delete
+Switch the login to employee
+raise ticket
+Switch the login to lead
+assign ticket
+Switch the login to engineer
+resolve ticket
+I
