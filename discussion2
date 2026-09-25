@@ -1,0 +1,19 @@
+PS C:\Users\Rehan Shariff  S M\Desktop\fastAPI\day4\frontend> npm create vite@latest calc_app -- --template react
+
+> npx
+> create-vite calc_app --template react
+
+│
+◇  Which linter to use?
+│  ESLint
+│
+◇  Install with npm and start now?
+│  No
+│
+◇  Scaffolding project in C:\Users\Rehan Shariff  S M\Desktop\fastAPI\day4\frontend\calc_app...
+│
+└  Done. Now run:
+
+  cd calc_app
+  npm install
+  npm run dev
